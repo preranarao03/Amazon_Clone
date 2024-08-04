@@ -1,4 +1,4 @@
-Amazon Home Page Clone - E-Commerce Website
+# Amazon Home Page Clone - E-Commerce Website
 
 ### Overview
 This project is a clone of the Amazon home page, developed using HTML and CSS. It replicates the layout and design elements of the Amazon e-commerce website to provide a realistic example of web design and front-end development skills.
